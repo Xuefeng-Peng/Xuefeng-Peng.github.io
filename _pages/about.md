@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages For Xuefeng Peng"
+title: "Academic Journey"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My Brief Introduction
+Brief Introduction
 ======
 I am Ph.D. Student under the supervision of Prof. Shaofu Du in School of Management at University of Science and Technology of China (USTC), and I am also a Visiting Student Researcher under the supervision of Prof. Jungju Yu in KAIST. 
 
 My research interest focuses on the interplay between Operations Management, Marketing, and Information Design. I have published three papers and am working on several projects targeting UTD 24. Besides the academic area, I am really into tennis (4.0 level) and reading.
 
-My Working Papers
+Selected Working Papers
 ======
 [1] Review Manipulation in Multi-product Firms: Implications for E-commerce
 
@@ -28,7 +28,7 @@ My Working Papers
 -Authorship: Xuefeng Peng, Zemin (Zachary) Zhong (Corresponding Author).
 
 
-My Publications
+Selected Publications
 ======
 Du, Shaofu, Peng, Xuefeng, Nie, Tengfei, Zhu, Yangguang (2024). Information disclosure and pricing for services with congestion: Extension vs. Encroachment [J]. Decision Support Systems. 176, 114064. 
 
