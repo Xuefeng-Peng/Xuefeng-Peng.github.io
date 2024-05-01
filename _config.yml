@@ -100,8 +100,8 @@ author:
 #  path                   : "_data/comments/{options.slug}"
 #  requiredFields         : ['name', 'email', 'message']
  # transforms:
-    email                : "pengxf@mail.ustc.edu.cn"
-  generatedFields:
+#    email                : "pengxf@mail.ustc.edu.cn"
+#  generatedFields:
 #    date:
  #     type               : "date"
  #     options:
